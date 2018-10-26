@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I know stuff like C++ python sql etc wonder how bold and italic looks for *markdown*_ lets test it out
